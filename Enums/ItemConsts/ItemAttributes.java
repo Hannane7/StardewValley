@@ -1,0 +1,40 @@
+package com.untildawn.Enums.ItemConsts;
+
+public enum ItemAttributes {
+    damage, durability, energyCost,
+    upgradeCost, percentage,
+    source,
+    stages,
+    totalHarvestTime,
+    oneTime,
+    regrowthTime,
+    baseSellPrice,
+    isEdible,
+    energy,
+    season,
+    canBecomeGiant,
+    description,
+    price,
+    ingredients,
+    capacity,
+    products,
+    fruitHarvestCycle,
+    fruitBaseSellPrice,
+    isFruitEdible,
+    fruitEnergy,
+    fruit,
+    isFull,
+    isCut,
+    quality,
+    hour,
+    day,
+    isReady,
+    shopPrice,
+    dailyLimit,
+    fishingSkill,
+    machine,
+    building,
+    path
+;
+
+}

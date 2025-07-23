@@ -1,0 +1,162 @@
+{
+  "sebastian": {
+    "ThanksForGivingFavoriteGifts": [
+      "Oh, wow! This is wonderful, thank you so much!",
+      "You really shouldn't have, but... thank you. It's perfect.",
+      "This is exactly what I wanted! You're so thoughtful."
+    ],
+    "ThanksForGivingUnFavoriteGifts": [
+      "Oh... thanks.",
+      "Um... right. Well, I appreciate the thought.",
+      "Okay. I guess I'll find a use for this."
+    ],
+    "StartingToGiveQuest": [
+      "I have a mission for you, if you're willing to help a friend out.",
+      "Listen, I could really use your assistance with something...",
+      "Hey, could you do me a favor? It's kind of important."
+    ],
+    "StartingToGiveReward": [
+      "Thanks again for your help. Here, take this.",
+      "I really appreciate what you did. Have this as a token of my gratitude.",
+      "You're a lifesaver. Please accept this for your trouble."
+    ],
+    "StartingConversation": [
+      "Hey.",
+      "What's up?",
+      "..."
+    ],
+    "CompletingQuest": [
+      "Alright, that went smoother than I expected. Thanks again.",
+      "Hey, you did great. I owe you one.",
+      "Mission complete, huh? Cool. Thanks for following through."
+    ]
+  },
+  "abigail": {
+    "ThanksForGivingFavoriteGifts": [
+      "Huh? Oh, wow... this is actually really nice. Thanks, I really needed this.",
+      "Ugh, finally something that isn't exhausting. Thank you.",
+      "Oh, this is lovely. You're a lifesaver."
+    ],
+    "ThanksForGivingUnFavoriteGifts": [
+      "Oh. Uh, thanks. I guess.",
+      "Hmm, interesting. I'll... put it over there.",
+      "You know, I'm almost too tired to even react to this. But thanks."
+    ],
+    "StartingToGiveQuest": [
+      "Listen, I'm way too tired for this, but could you maybe do something for me?",
+      "Ugh... hey. Got a task for you. Please make it quick.",
+      "If you're not too busy, and it's not too much trouble... could you help me out?"
+    ],
+    "StartingToGiveReward": [
+      "Here, take this. And thanks... seriously.",
+      "Ugh, finally that's over. Here's your reward, now please let me rest.",
+      "Thanks for doing that. I owe you one. Take this."
+    ],
+    "StartingConversation": [
+      "Hey.",
+      "What do you want?",
+      "Ugh..."
+    ],
+    "CompletingQuest": [
+      "Wow... you actually did it. Thanks, I needed that.",
+      "Okay, that helped more than I expected. Appreciate it.",
+      "You pulled through. That's cool of you."
+    ]
+  },
+  "harvey": {
+    "ThanksForGivingFavoriteGifts": [
+      "Hmph. Not bad. Thank you.",
+      "Well, I'll be. That's actually quite useful. Much obliged.",
+      "Hmmph. Decent. Don't expect this to happen often."
+    ],
+    "ThanksForGivingUnFavoriteGifts": [
+      "What's this nonsense?",
+      "Hmph. Don't you have anything better to give?",
+      "I suppose I can find some use for this... eventually."
+    ],
+    "StartingToGiveQuest": [
+      "Listen here, I have a task for you, and you'd better not mess it up.",
+      "There's something I need done. Don't ask questions, just do it.",
+      "Hmph. Pay attention. I have a job for you."
+    ],
+    "StartinToGiveReward": [
+      "Alright, you did it. Here's your payment. Don't expect any praise.",
+      "Hmph. Take this and be gone.",
+      "Well, you managed to not screw it up. Here's your reward."
+    ],
+    "StartingConversation": [
+      "Hmph.",
+      "What?",
+      "Don't waste my time."
+    ],
+    "CompletingQuest": [
+      "At least you followed the instructions. Good.",
+      "Task completed. About time.",
+      "Hmm. You did the job. That’s all that matters."
+    ]
+  },
+  "lia": {
+    "ThanksForGivingFavoriteGifts": [
+      "Oh, my goodness! This is so sweet of you, thank you!",
+      "This is absolutely perfect! You're so kind!",
+      "Wow! You made my day! Thank you so, so much!"
+    ],
+    "ThanksForGivingUnFavoriteGifts": [
+      "Oh... well, thank you for thinking of me.",
+      "That's... very thoughtful. Thank you.",
+      "How lovely! ...Thank you."
+    ],
+    "StartingToGiveQuest": [
+      "Hello! I was wondering if you might be able to help me with something?",
+      "Excuse me, would you mind doing a small favor for me?",
+      "Hi! I have a little task for you, if you have the time."
+    ],
+    "StartingToGiveReward": [
+      "Oh, thank you so much for your help! Please accept this!",
+      "You're so kind! Here's a little something for your trouble.",
+      "I really appreciate you doing that for me! Please take this as a thank you."
+    ],
+    "StartingConversation": [
+      "Hi!",
+      "Hello there!",
+      "Good day!"
+    ],
+    "CompletingQuest": [
+      "You did it! Wonderful, thank you so much!",
+      "That was a huge help. I’m really grateful!",
+      "Everything went perfectly, thanks to you!"
+    ]
+  },
+  "robin": {
+    "ThanksForGivingFavoriteGifts": [
+      "Excellent! This will be incredibly useful, thank you!",
+      "Ah, precisely what I needed! Your efficiency is appreciated.",
+      "Fascinating! Thank you for this, it will aid my research immensely."
+    ],
+    "ThanksForGivingUnFavoriteGifts": [
+      "Hmm, interesting. I'll analyze its properties later. Thank you.",
+      "While not directly applicable to my current projects, I appreciate the gesture.",
+      "Thank you. I'll see if there's any practical application for this."
+    ],
+    "StartingToGiveQuest": [
+      "I require your assistance with a matter of some importance.",
+      "Excuse me, I have a task that requires your specific skills.",
+      "Time is of the essence. I have a project that necessitates your involvement."
+    ],
+    "StartingToGiveReward": [
+      "Your assistance was invaluable. Please accept this as compensation.",
+      "Thank you for your efficiency. Here is your reward.",
+      "Thanks a lot. Please take this for your time."
+    ],
+    "StartingConversation": [
+      "Greetings.",
+      "Excuse me.",
+      "Good day."
+    ],
+    "CompletingQuest": [
+      "Impressive work. The data aligns perfectly.",
+      "That was precisely what I needed. Thank you.",
+      "Well done. You've contributed meaningfully to the project."
+    ]
+  }
+}
